@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+-
+- phpMyAdmin XML Dump
+- version 3.2.0.1
+- http://www.phpmyadmin.net
+-
+- Host: localhost
+- Generation Time: Oct 26, 2014 at 02:03 PM
+- Server version: 5.1.37
+- PHP Version: 5.3.0
+-->
+
+<!--
+- Database: 'travel'
+-->
+<travel>
+  <!-- Table admin -->
+    <admin>
+        <username>admin</username>
+        <password>admin123</password>
+    </admin>
+</travel>

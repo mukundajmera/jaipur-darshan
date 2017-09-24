@@ -1,0 +1,12 @@
+===Database travel
+
+== Table structure for table admin
+
+|------
+|Field|Type|Null|Default
+|------
+|//**username**//|varchar(30)|No|
+|password|varchar(30)|No|
+== Dumping data for table admin
+
+|admin|admin123
